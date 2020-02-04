@@ -15,8 +15,8 @@
 
 |                                                                                   | Lo-fi      | Hi-fi        | UI            | Mobile |                                   Source code \*                                   |
 | --------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :-:    |:--------------------------------------------------------------------------------: |
-| `Cortellis Regulatory Intelligence`                                               |            |              |               |        |                                                                                    |
-| Landing page                                                                      |[:link:](https://fv7n8d.axshare.com/ri.html)|[:link:](https://clarivate.invisionapp.com/share/2QRSUHUNBTY#/370888312_RI_Landing_Page)| |[:link:](https://clarivate.invisionapp.com/share/4KSYJTCA27Y#/361995396_splash_Screen)||
+| **Cortellis Regulatory Intelligence**                                               |            |              |               |        |                                                                                    |
+| Landing page                                                                      |[👍](https://fv7n8d.axshare.com/ri.html)|[👍](https://clarivate.invisionapp.com/share/2QRSUHUNBTY#/370888312_RI_Landing_Page)| |[👍](https://clarivate.invisionapp.com/share/4KSYJTCA27Y#/361995396_splash_Screen)||
 | Search                                                                            |[👍](https://buhlke.axshare.com/search_ri_enhanced.html)|||||
 | User Journey                                                                      |[👍](https://pppgvw.axshare.com/all.html)|||||
 | Typeahead                                                                         |[👍](https://pppgvw.axshare.com/typeahead.html)|||||
@@ -25,7 +25,7 @@
 | Souce Document Layout                                                             |[👍](https://pppgvw.axshare.com/source_document.html)|||||
 | Workbench and tools                                                               |[👍](https://clarivate.invisionapp.com/share/4DSYJKMS36G#/368289033_01-A-Workbench_Saved-Search_01)|||||
 | Responsive designs                                                                ||[👍](https://clarivate.invisionapp.com/share/67RXSKQB4TR)||||
-| `Cortellis Enhancements`                                                          ||||||
+| **Cortellis Enhancements**                                                          ||||||
 | Success Predictor tool                                                            |[👍](https://ox8ufl.axshare.com/home.html)|[👍](https://clarivate.invisionapp.com/share/DHHTESQ2JXE)||||
 | Sales and Forecast                                                                |[👍](https://fo9s89.axshare.com/home.html)|||||
 | New login / user migration                                                        |[👍](https://sjxuc6.axshare.com)|||||

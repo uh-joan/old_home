@@ -20,11 +20,11 @@
 | - Landing page                                                                    |[👍](https://fv7n8d.axshare.com/ri.html)|[👍](https://clarivate.invisionapp.com/share/2QRSUHUNBTY#/370888312_RI_Landing_Page)| |[👍](https://clarivate.invisionapp.com/share/4KSYJTCA27Y#/361995396_splash_Screen)||
 | - Search                                                                          |[👍](https://buhlke.axshare.com/search_ri_enhanced.html)|||||
 | - User Journey                                                                    |[👍](https://pppgvw.axshare.com/all.html)|||||
-| [Appear Here Styleguide](https://bloom.appearhere.co.uk/)                         |     👍     |              |               |  |                [:octocat:](https://github.com/appearhere/bloom)                  |
-| [Apple Developer Design Guidelines](https://developer.apple.com/design/)          |            |              |      👍       |  |                                                                                  |
-| [Aragon UI](https://ui.aragon.org/)                                               |     👍     |              |               | |                 [:octocat:](https://github.com/aragon/aragon-ui)                  |
-| [Artsy Palette](https://palette.artsy.net/)                                       |     👍     |              |               |  |                 [:octocat:](https://github.com/artsy/palette)                    |
-| [AT UIKIT](https://at-ui.github.io/at-ui/#/en)                                    |     👍     |              |               |   |                 [:octocat:](https://github.com/at-ui/at-ui)                     |
+| - Typeahead                                                                       |[👍](https://pppgvw.axshare.com/typeahead.html)|||||
+| - Dashboard                                                                       |[👍](https://pppgvw.axshare.com/graph_final.html)|||||
+| - Weekly Alerts Widget                                                            |[👍](https://pppgvw.axshare.com/weekly_alerts.html)|||||
+| - Souce Document Layout                                                           |[👍](https://pppgvw.axshare.com/source_document.html)|||||
+| - Workbench and tools                                                             |[👍](https://clarivate.invisionapp.com/share/4DSYJKMS36G#/368289033_01-A-Workbench_Saved-Search_01)|              |               |   |                 [:octocat:](https://github.com/at-ui/at-ui)                     |
 | [Atlassian Design Guidelines](https://atlassian.design)                           |     👍     |      👍      |      👍       |  |  [:space_invader:](https://bitbucket.org/atlassian/atlaskit-mk-2/src/master/)    |
 | [Audi UI Kit](https://www.audi.com/ci/en/guides/user-interface/introduction.html) |     👍     |              |      👍       |  |                  [:octocat:](https://github.com/audi/audi-ui)                    |
 | [Aurora (Government of Canada)](https://design.gccollab.ca/)                      |     👍     |      👍      |      👍       |  |         [:octocat:](https://github.com/gctools-outilsgc/design-system)           |

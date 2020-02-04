@@ -44,9 +44,17 @@ A curated list of UX/UI and coding resources.
 | User interface 2.0                                         |[👍](https://marvelapp.com/77gd814)||[👍](https://compassinsight.com/demo)|👍||
 | Landing page and sign up process                                          |[👍](https://marvelapp.com/16ggfgg/screen/17408230)||👍|👍||
 | **Open Source**                                                                ||||||
-| [pdKit](https://pdkit.github.io/) - Toolkit for Parkinson’s Disease processing                                    |||||                   [:octocat:](https://github.com/pdkit/pdkit)                      |
-| pypi pdKit                                        |||||                   [:octocat:](https://pypi.org/project/pdkit/)                      |
+| [pdKit](https://pdkit.github.io/) - Toolkit for Parkinson’s Disease processing |||||                   [:octocat:](https://github.com/pdkit/pdkit)                      |
+| pypi pdKit - pdkit python release                 |||||                   [:octocat:](https://pypi.org/project/pdkit/)                      |
+| beam_pdkit - apache beam with the pdkit toolkit   |||||                   [:octocat:](https://github.com/uh-joan/beam_pdkit)                      |
+| simple crawler - Web crawler to extract assets from a url   |||||                   [:octocat:](https://github.com/uh-joan/simple_crawler)                      |
 | **Other**                                                                ||||||
+| Enrutat - mobile app for the promotions of local tourism  |👍|👍|👍|[:iphone:](https://apps.apple.com/gb/app/enrutat/id1242554085)[:robot:](https://play.google.com/store/apps/details?id=io.apicake.enrutat&hl=en_GB)|:octocat:|
+| Comcau - funny weather app  |👍|👍|👍|[:robot:](https://play.google.com/store/apps/details?id=io.apicake.comcau&hl=en_GB)|:octocat:|
+| Soot&Shout - screenshots managing app                                                              ||[👍](https://projects.invisionapp.com/share/QCETQNER7)||||
+| Life Sciences 2.0                                                              |[👍](https://bm5nao.axshare.com/)|[👍](https://invis.io/YFVU7L7B5KZ)||||
+| ATCC cell line dashboard                                                              |[👍](https://ovk1cn.axshare.com)|||||
+| Lloyds                                                             |[👍](https://mrmk0u.axshare.com)|||||
 
 ### Notes
 

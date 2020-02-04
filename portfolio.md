@@ -42,8 +42,11 @@
 | Product profile                                         ||[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/380482025)||||
 | Company/Coorporate profile                                         |[👍](https://7qaji3.axshare.com/company.html)|[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/390919905)||||
 | **Compass Insight**                                                                ||||||
-| Onboarding                                         |[👍](https://marvelapp.com/26b7g91)||[👍](https://compassinsight.com/demo)|||
-| [eBay Skin](https://ebay.github.io/skin/)                                         |     👍     |              |               |  |                   [:octocat:](https://github.com/eBay/skin)                      |
+| Onboarding                                         |[👍](https://marvelapp.com/26b7g91)||👍|||
+| User interface 2.0                                         |[👍](https://marvelapp.com/77gd814)||[👍](https://compassinsight.com/demo)|👍||
+| Landing page and sign up process                                          |[👍](https://marvelapp.com/16ggfgg/screen/17408230)||[👍](https://compassinsight.com/)|👍||
+| **open source toolkit for Parkinson’s Disease processing**                                                                ||||||
+| [pdKit](https://pdkit.github.io/)                                        |||||                   [:octocat:](https://github.com/pdkit/pdkit)                      |
 
 ### Notes
 

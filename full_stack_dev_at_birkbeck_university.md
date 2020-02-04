@@ -1,4 +1,4 @@
-# Software Developer at Birkbeck University, London, UK.
+## Software Developer at Birkbeck University, London, UK.
 - May 2017 – Dec 2017
 - Product: Moodle Birkbeck Learning App ([android](https://play.google.com/store/apps/details?id=uk.ac.bbk.slapp_moodle)/ios)
 - Description of work: 

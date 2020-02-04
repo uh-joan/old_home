@@ -15,7 +15,7 @@
 
 |                                                                                   | Lo-fi      | Hi-fi        | UI            | Mobile |                                   Source code \*                                   |
 | --------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :-:    |:--------------------------------------------------------------------------------: |
-| **Cortellis Regulatory Intelligence**                                               |            |              |               |        |                                                                                    |
+| **[Cortellis Regulatory Intelligence](https://clarivate.com/cortellis/solutions/regulatory-intelligence-solutions/)**                                               |            |              |               |        |                                                                                    |
 | Landing page                                                                      |[👍](https://fv7n8d.axshare.com/ri.html)|[👍](https://clarivate.invisionapp.com/share/2QRSUHUNBTY#/370888312_RI_Landing_Page)| |[👍](https://clarivate.invisionapp.com/share/4KSYJTCA27Y#/361995396_splash_Screen)||
 | Search                                                                            |[👍](https://buhlke.axshare.com/search_ri_enhanced.html)|||||
 | User journey                                                                      |[👍](https://pppgvw.axshare.com/all.html)|||||
@@ -36,17 +36,18 @@
 | Faceted search concept                                                            |||[👍](https://www.algolia.com/realtime-search-demo/grc-52a59bbd-06f3-43ce-9075-eb749e182939?__cf_chl_jschl_tk__=54dda975626079c05ae37eae662308abda664a0e-1580834717-0-AVQ-RjAv_ee3ydINNfNK2L23EedoMDrleJcZ8xDjnWHntPoaWXwCJ6xcGKoVyVmg9ykj_fXXcXO2poZIMHNc_W6HAi2sJmTweCdfMy760Adl0-LElw7YCvfppI9TChH9BhWQ17ygyrYUTKoVt9eQS5JT9rJocKmntR9pImzrFa2y3uoB5MHqXNmoSTHptkvn8o1FN9WwJTyU5CkiyCV5TPUItLoqnZkLq2BtCHMhaTsph6w5o7YMAN7fedOipxPYIQ6IK9kS5PZwOaYEYfdE6sU8W74lf_ZGB7Rie96dglBCTj41pWB5xcE-AVEUsBqD-POP_N53dm8H--Pgz2iED4c)|||
 | Search within pdf sections concept                                                |[👍](https://eotz14.axshare.com/#g=1&p=home&hi=1)|||||
 | Related content functionality                                                     |[👍](https://fttsz9.axshare.com/#g=1&p=with_links&hi=1)|||||
-| **Newport**                                                                       ||||||
+| **[Newport](https://clarivate.com/cortellis/solutions/generics-intelligence-analytics/)**                                                                       ||||||
 | Product selector tool                                                             |[👍](https://1qlcbu.axshare.com/solution_2.html)|[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/377387059)||||
 | Landing page                                         ||[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/366209647)||||
 | Product profile                                         ||[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/380482025)||||
 | Company/Coorporate profile                                         |[👍](https://7qaji3.axshare.com/company.html)|[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/390919905)||||
-| **Compass Insight**                                                                ||||||
+| **[Compass Insight](https://compassinsight.com/)**                                                                ||||||
 | Onboarding                                         |[👍](https://marvelapp.com/26b7g91)||👍|||
 | User interface 2.0                                         |[👍](https://marvelapp.com/77gd814)||[👍](https://compassinsight.com/demo)|👍||
-| Landing page and sign up process                                          |[👍](https://marvelapp.com/16ggfgg/screen/17408230)||[👍](https://compassinsight.com/)|👍||
-| **open source toolkit for Parkinson’s Disease processing**                                                                ||||||
-| [pdKit](https://pdkit.github.io/)                                        |||||                   [:octocat:](https://github.com/pdkit/pdkit)                      |
+| Landing page and sign up process                                          |[👍](https://marvelapp.com/16ggfgg/screen/17408230)||👍|👍||
+| **Open Source**                                                                ||||||
+| [pdKit](https://pdkit.github.io/) - Toolkit for Parkinson’s Disease processing                                    |||||                   [:octocat:](https://github.com/pdkit/pdkit)                      |
+| pypi pdKit(https://pypi.org/project/pdkit/)                                        |||||                   [:octocat:](https://pypi.org/project/pdkit/)                      |
 
 ### Notes
 

@@ -1,6 +1,6 @@
-# Portfolio
+## Portfolio
 
-## A curated list of UX/UI and coding resources .
+A curated list of UX/UI and coding resources.
 
 
 ### Tags
@@ -10,8 +10,6 @@
 - UI: Includes User Interface (front end) development.
 - Mobile: Provides a mobile implementation.
 - Source code: Publically viewable source code.
-
----
 
 |                                                                                   | Lo-fi      | Hi-fi        | UI            | Mobile |                                   Source code \*                                   |
 | --------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :-:    |:--------------------------------------------------------------------------------: |
@@ -25,7 +23,7 @@
 | Souce document layout                                                             |[👍](https://pppgvw.axshare.com/source_document.html)|||||
 | Workbench and tools                                                               |[👍](https://clarivate.invisionapp.com/share/4DSYJKMS36G#/368289033_01-A-Workbench_Saved-Search_01)|||||
 | Responsive designs                                                                ||[👍](https://clarivate.invisionapp.com/share/67RXSKQB4TR)||||
-| **Cortellis Enhancements**                                                          ||||||
+| **[Cortellis Enhancements](https://clarivate.com/cortellis/)**                                                          ||||||
 | Success predictor tool                                                            |[👍](https://ox8ufl.axshare.com/home.html)|[👍](https://clarivate.invisionapp.com/share/DHHTESQ2JXE)||||
 | Sales and forecast                                                                |[👍](https://fo9s89.axshare.com/home.html)|||||
 | New login / user migration                                                        |[👍](https://sjxuc6.axshare.com)|||||
@@ -47,10 +45,9 @@
 | Landing page and sign up process                                          |[👍](https://marvelapp.com/16ggfgg/screen/17408230)||👍|👍||
 | **Open Source**                                                                ||||||
 | [pdKit](https://pdkit.github.io/) - Toolkit for Parkinson’s Disease processing                                    |||||                   [:octocat:](https://github.com/pdkit/pdkit)                      |
-| pypi pdKit(https://pypi.org/project/pdkit/)                                        |||||                   [:octocat:](https://pypi.org/project/pdkit/)                      |
+| pypi pdKit                                        |||||                   [:octocat:](https://pypi.org/project/pdkit/)                      |
+| **Other**                                                                ||||||
 
 ### Notes
 
 \*_Projects marked as open source may not always be open to use. Always check the license of these projects before using them._
-
-Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.

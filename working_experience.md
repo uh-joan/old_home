@@ -1,0 +1,38 @@
+# Working experience
+
+## Senior UX Designer at [PatSnap](https://www.patsnap.com/), London, UK.
+* Oct 2019 - Now
+* Products: [Discovery](https://discovery.patsnap.com/home), new Life Sciences (previous [Chem](http://chemical.patsnap.com/) & [Bio](https://bio.patsnap.com/))
+* Description of work: 
+  * Support the discovery team with product requirements documents, provide design solutions and hand them over to the engineering team. 
+  * Lead product designer for the new Life Science product by gathering user requirements and business goals, and transforming them into interactive mockups and POC.
+
+## Senior UX Designer at [Clarivate](https://clarivate.com/), London, UK.
+* Feb 2018 – Sept 2019
+* Products: [Cortellis](https://www.cortellis.com), Cortellis [Regulatory Intelligence](https://clarivate.com/cortellis/solutions/regulatory-intelligence-solutions/), [Newport](https://www.apicomesfirst.com), [CMC](https://apps.dev-snapshot.clarivate.com/cmc/home).
+* Description of work: 
+  - Meeting design objectives of individual projects i.e. early user research, design and validation of user flows, understand stakeholder needs, interaction designs, delivering user interface prototypes to specification and validating usability with testing. 
+  - Support the strategic goals to increase the awareness and impact of User Experience (UX) activities across the organisation’s stakeholders.
+  
+## Post-doc at Birkbeck University, London, UK.
+* Feb 2018 – Feb 2019
+* Product: [PDKit](http://pdkit.github.io): Scalable Open Source Data Science for Parkinson's Disease ([github](https://github.com/pdkit/pdkit)  | [docs](https://pdkit.readthedocs.io/en/latest/))
+* Description of work: 
+  * As a Lead software developer to develop and maintain the open source data science toolkit which is a series of clinical measurements and features applicable to Parkinson’s Disease data collections. 
+  * Other duties: documentation, public pull requests and continuous integration.
+
+## UX/UI Lead Developer at [Retechnica](http://www.retechnica.com/), London, UK.
+* Aug 2015 – Nov 2017
+* Products: [CompassInsight](http://www.compassinsight.com/) and [Ingenia](https://www.ingeniapi.com/)
+* Description of work: 
+  * Lead the UX/UI and Front-End development of CompassInsight, Retechnica’s main product, turning product roadmap and user’s requirements into pragmatic, effective, elegant implementations, balancing a start-up’s need for speed with writing clean, scalable, maintainable code.
+  * From concept to life of a small new product named CompassEspresso.  An AI product for personalised business news by email.
+  * Other duties include demonstrating designs using user journeys, product onboarding mockups and interactive UX/UI prototypes working closely with other teams, getting hands-on with the back-end system and diving into DevOps as necessary.
+  * Collaboration with [CloudUPDRS](http://www.updrs.net/) project to implement an app to analyse tremor, gait and tapping performance to accurately assess the symptoms of Parkinson's disease
+  
+## Software Developer at Birkbeck University, London, UK.
+* May 2017 – Dec 2017
+* Product: Moodle Birkbeck Learning App ([android](https://play.google.com/store/apps/details?id=uk.ac.bbk.slapp_moodle)/ios)
+* Description of work: 
+  * Mobile app software developer and UX/UI of the Moodle mobile application for the Birkbeck University. 
+  * Turning product roadmap and UX/UI mockups into effective implementations using the hybrid ionic library to update and maintain the mobile application in both apple and play store.

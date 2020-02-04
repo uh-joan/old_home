@@ -38,7 +38,11 @@
 | Related content functionality                                                     |[👍](https://fttsz9.axshare.com/#g=1&p=with_links&hi=1)|||||
 | **Newport**                                                                       ||||||
 | Product selector tool                                                             |[👍](https://1qlcbu.axshare.com/solution_2.html)|[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/377387059)||||
-| Landing page, results and product profile                                         ||[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/366209647)||||
+| Landing page                                         ||[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/366209647)||||
+| Product profile                                         ||[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/380482025)||||
+| Company/Coorporate profile                                         |[👍](https://7qaji3.axshare.com/company.html)|[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/390919905)||||
+| **Compass Insight**                                                                ||||||
+| Onboarding                                         |[👍](https://marvelapp.com/26b7g91)||[👍](https://compassinsight.com/demo)|||
 | [eBay Skin](https://ebay.github.io/skin/)                                         |     👍     |              |               |  |                   [:octocat:](https://github.com/eBay/skin)                      |
 
 ### Notes

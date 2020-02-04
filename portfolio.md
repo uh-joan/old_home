@@ -16,7 +16,7 @@
 |                                                                                   | Lo-fi      | Hi-fi        | UI            | Mobile |                                   Source code \*                                   |
 | --------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :-:    |:--------------------------------------------------------------------------------: |
 | `Cortellis Regulatory Intelligence`                                               |            |              |               |        |                                                                                    |
-| Landing page                                                                      |[👍](https://fv7n8d.axshare.com/ri.html)|[👍](https://clarivate.invisionapp.com/share/2QRSUHUNBTY#/370888312_RI_Landing_Page)| |[👍](https://clarivate.invisionapp.com/share/4KSYJTCA27Y#/361995396_splash_Screen)||
+| Landing page                                                                      |[:link:](https://fv7n8d.axshare.com/ri.html)|[:link:](https://clarivate.invisionapp.com/share/2QRSUHUNBTY#/370888312_RI_Landing_Page)| |[:link:](https://clarivate.invisionapp.com/share/4KSYJTCA27Y#/361995396_splash_Screen)||
 | Search                                                                            |[👍](https://buhlke.axshare.com/search_ri_enhanced.html)|||||
 | User Journey                                                                      |[👍](https://pppgvw.axshare.com/all.html)|||||
 | Typeahead                                                                         |[👍](https://pppgvw.axshare.com/typeahead.html)|||||

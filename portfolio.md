@@ -15,17 +15,17 @@
 
 |                                                                                   | Lo-fi      | Hi-fi        | UI            | Mobile |                                   Source code \*                                   |
 | --------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :-:    |:--------------------------------------------------------------------------------: |
-| Cortellis Regulatory Intelligence                                                 |            |              |               |        |                                                                                    |
-| - Landing page                                                                    |[👍](https://fv7n8d.axshare.com/ri.html)|[👍](https://clarivate.invisionapp.com/share/2QRSUHUNBTY#/370888312_RI_Landing_Page)| |[👍](https://clarivate.invisionapp.com/share/4KSYJTCA27Y#/361995396_splash_Screen)||
-| - Search                                                                          |[👍](https://buhlke.axshare.com/search_ri_enhanced.html)|||||
-| - User Journey                                                                    |[👍](https://pppgvw.axshare.com/all.html)|||||
-| - Typeahead                                                                       |[👍](https://pppgvw.axshare.com/typeahead.html)|||||
-| - Dashboard                                                                       |[👍](https://pppgvw.axshare.com/graph_final.html)|||||
-| - Weekly Alerts Widget                                                            |[👍](https://pppgvw.axshare.com/weekly_alerts.html)|||||
-| - Souce Document Layout                                                           |[👍](https://pppgvw.axshare.com/source_document.html)|||||
-| - Workbench and tools                                                             |[👍](https://clarivate.invisionapp.com/share/4DSYJKMS36G#/368289033_01-A-Workbench_Saved-Search_01)|              |               |      |                 [:octocat:](https://github.com/at-ui/at-ui)                     |
-| Cortellis Enhancements                                                            ||||||
-| - Success Predictor tool                                                          |[👍](https://ox8ufl.axshare.com/home.html)     |[👍](https://clarivate.invisionapp.com/share/DHHTESQ2JXE)||||
+| `Cortellis Regulatory Intelligence`                                                 |            |              |               |        |                                                                                    |
+| Landing page                                                                    |[👍](https://fv7n8d.axshare.com/ri.html)|[👍](https://clarivate.invisionapp.com/share/2QRSUHUNBTY#/370888312_RI_Landing_Page)| |[👍](https://clarivate.invisionapp.com/share/4KSYJTCA27Y#/361995396_splash_Screen)||
+| Search                                                                          |[👍](https://buhlke.axshare.com/search_ri_enhanced.html)|||||
+| User Journey                                                                    |[👍](https://pppgvw.axshare.com/all.html)|||||
+| Typeahead                                                                       |[👍](https://pppgvw.axshare.com/typeahead.html)|||||
+| Dashboard                                                                       |[👍](https://pppgvw.axshare.com/graph_final.html)|||||
+| Weekly Alerts Widget                                                            |[👍](https://pppgvw.axshare.com/weekly_alerts.html)|||||
+| Souce Document Layout                                                           |[👍](https://pppgvw.axshare.com/source_document.html)|||||
+| Workbench and tools                                                             |[👍](https://clarivate.invisionapp.com/share/4DSYJKMS36G#/368289033_01-A-Workbench_Saved-Search_01)|              |               |      |                 [:octocat:](https://github.com/at-ui/at-ui)                     |
+| `Cortellis Enhancements`                                                            ||||||
+| Success Predictor tool                                                          |[👍](https://ox8ufl.axshare.com/home.html)     |[👍](https://clarivate.invisionapp.com/share/DHHTESQ2JXE)||||
 | [Aurora (Government of Canada)](https://design.gccollab.ca/)                      |     👍     |      👍      |      👍       |  |         [:octocat:](https://github.com/gctools-outilsgc/design-system)           |
 | [Australian Government Design System](https://designsystem.gov.au/)               |     👍     |              |               |  |        [:octocat:](https://github.com/govau/design-system-components/)           |
 | [AutoGuru Overdrive](http://overdrive.autoguru.io/)                               |     👍     |              |               |  |             [:octocat:](https://github.com/autoguru-au/overdrive)                |

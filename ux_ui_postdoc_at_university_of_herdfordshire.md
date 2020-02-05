@@ -4,3 +4,7 @@
   * Researcher in “[Accompany](https://cordis.europa.eu/project/id/287624): Acceptable Robotics Companions for Ageing Years”, an EU project about robotic companions as part of intelligent home environments to provide services to elderly users. 
   * Design, implementation and test of memory visualization tools for robots, developing UI  behaviours to promote acceptable robot companions, UX (storyboards, user panels, prototypes, mockup UX/UI test and evaluation) 
   * Full stack developer (python, C++, HTML/CSS/JavaScript -AngularJS, Node- and databases -Mongo, MySQL-)
+
+---
+
+[View](/working_experience.md) full working experience.

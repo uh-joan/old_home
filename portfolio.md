@@ -41,8 +41,8 @@ A curated list of UX/UI and coding resources.
 | Company/Coorporate profile                                         |[👍](https://7qaji3.axshare.com/company.html)|[👍](https://clarivate.invisionapp.com/share/MKQ8XR54CVQ#/screens/390919905)||||
 | **[Compass Insight](https://compassinsight.com/)**                                                                ||||||
 | Onboarding                                         |[👍](https://marvelapp.com/26b7g91)||👍|||
-| User interface 2.0                                         |[👍](https://marvelapp.com/77gd814)||[👍](https://compassinsight.com/demo)|👍||
-| Landing page and sign up process                                          |[👍](https://marvelapp.com/16ggfgg/screen/17408230)||👍|👍||
+| User interface 2.0                                         |[👍](https://marvelapp.com/77gd814)||[👍](https://compassinsight.com/demo)|👍|:octocat:|
+| Landing page and sign up process                                          |[👍](https://marvelapp.com/16ggfgg/screen/17408230)||👍|[👍](https://compassinsight.com)||
 | **Open Source**                                                                ||||||
 | [pdKit](https://pdkit.github.io/) - Toolkit for Parkinson’s Disease processing |||||                   [:octocat:](https://github.com/pdkit/pdkit)                      |
 | pypi pdKit - pdkit python release                 |||||                   [:octocat:](https://pypi.org/project/pdkit/)                      |

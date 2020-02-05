@@ -4,3 +4,7 @@
 * Description of work: 
   * As a Lead software developer to develop and maintain the open source data science toolkit which is a series of clinical measurements and features applicable to Parkinson’s Disease data collections. 
   * Other duties: documentation, public pull requests and continuous integration.
+
+---
+
+[View](/working_experience.md) full working experience.

@@ -6,3 +6,7 @@
   * From concept to life of a small new product named CompassEspresso.  An AI product for personalised business news by email.
   * Other duties include demonstrating designs using user journeys, product onboarding mockups and interactive UX/UI prototypes working closely with other teams, getting hands-on with the back-end system and diving into DevOps as necessary.
   * Collaboration with [CloudUPDRS](http://www.updrs.net/) project to implement an app to analyse tremor, gait and tapping performance to accurately assess the symptoms of Parkinson's disease
+
+---
+
+[View](/working_experience.md) full working experience.

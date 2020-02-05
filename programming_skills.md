@@ -1,3 +1,5 @@
+![programming_skills](/programming_skills.png)
+
 ## Programming skills
 * Front/back end (70/30) development.
 * AngularJS framework expertise and Angular, React and React Native fundamentals.

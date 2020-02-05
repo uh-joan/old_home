@@ -5,3 +5,7 @@
   * Design and execute lab experiments with final users, support in Robotics/Computer Science, machine learning, human-machine systems, HCI, and cognitive modeling. 
   * Maintenance and software development (C++, java, python, Matlab) of Aldebaran's Nao and Sony's Aibo robots. 
   * Writing project deliverables and documentation, assist and present work in progress meetings.
+
+---
+
+[View](/working_experience.md) full working experience.

@@ -10,9 +10,12 @@ I make sure to keep up to date with the latest technology and best practices to 
 
 I am comfortable both leading and working in a multidisciplinary and international team, listening and learning from my colleagues. I constantly strive to improve my skills and share what I have learned with others, and best of all have fun!
 
+## Portfolio
+[View](/portfolio.md) full portfolio list.
+
 ## Skills
 
-### UI/UX
+### UI/UX :gem:
 * Design methods: conceptual and user-centered design, storyboarding, user flows and user journey; Visual interactions; lo-fi sketching and wireframes, and hi-fi prototyping.
 * Data gathering: user research, interviews, questionnaires, focus groups.
 * Prototyping tools: Sketch, Axure, Abstract, InVision, Zeplin, Gimp, Photoshop, Marvel, Balsamiq.
@@ -24,21 +27,21 @@ I am comfortable both leading and working in a multidisciplinary and internation
 * Expertise in designing responsive solutions available on all the different types of devices and different screen resolutions.
 * Knowledge of how design impacts engineering and vice versa, with the ability to construct dynamic interactive designs that are technically feasible.
 
-### Programming skills
-* Front/back end (70/30) development.
+### Programming :computer:
+* Front/back end (70/30) developer.
 * AngularJS framework expertise and Angular, React and React Native fundamentals.
 * Experience with component-based front-end UI libraries (SASS, Flexbox, Bootstrap, Angular UI, Angular Material, React Material, React)
 * Back-end frameworks (Rails) and experience with Ruby and Python languages.
 * SQL (Postgresql) and noSQL (Redis, MongoDB) DB.
 * DevOps fundamentals (AWS, Heroku, DigitalOcean).
 
-## Education
+## Education :mortar_board:
 
 * **[PhD](https://www.dropbox.com/s/kgv7g5y0ni1wtnm/SaezThesisShort.pdf)** in Computer Science. Sheffield Hallam University, Sheffield, UK. Thesis entitled “Experiments in Human Multi-Robot Systems”.
 * **MSc** Automatics and Control Engineering. Rovira i Virgili University, Tarragona, Spain.
 * **BEng** in Industrial Electronics Engineering. Rovira i Virgili University, Tarragona, Spain.
 
-## Working experience
+## Working experience :briefcase:
 
 ### Senior UX Designer at [PatSnap](https://www.patsnap.com/), London, UK.
 * Oct 2019 - Now

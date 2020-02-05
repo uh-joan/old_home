@@ -1,5 +1,7 @@
 ![key_words](/key_words.png)
 
+## Joan S. Pons
+[:email:](mailto:joanspon@gmail.com) [:octocat:](github.com/uh-joan) [linkedin](https://www.linkedin.com/in/joanspon/)
 ## Spotlight
 I am a passionate, enthusiastic product/UX designer with front and back end programming skills and academic background who enjoys working in a challenging environment.
 

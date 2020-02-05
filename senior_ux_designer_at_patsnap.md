@@ -4,3 +4,4 @@
 * Description of work: 
   * Support the discovery team with product requirements documents, provide design solutions and hand them over to the engineering team. 
   * Lead product designer for the new Life Science product by gathering user requirements and business goals, and transforming them into interactive mockups and POC.
+  * Maintain and support the existing design system sketch repository.

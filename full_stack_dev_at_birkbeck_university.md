@@ -4,3 +4,7 @@
 - Description of work: 
   * Mobile app software developer and UX/UI of the Moodle mobile application for the Birkbeck University. 
   * Turning product roadmap and UX/UI mockups into effective implementations using the hybrid ionic library to update and maintain the mobile application in both apple and play store.
+
+---
+
+[View](/working_experience.md) full working experience.

@@ -1,7 +1,8 @@
-## [📧](mailto:joanspon@gmail.com) [🐙](github.com/uh-joan) [💼](https://www.linkedin.com/in/joanspon/) [🎓](https://scholar.google.com/citations?user=pQxNXVsAAAAJ) [🐤](https://twitter.com/joans_ux)
+
+### [📧](mailto:joanspon@gmail.com) [🐙](github.com/uh-joan) [💼](https://www.linkedin.com/in/joanspon/) [🎓](https://scholar.google.com/citations?user=pQxNXVsAAAAJ) [🐤](https://twitter.com/joans_ux)
 
 ## Spotlight
-I am a passionate, enthusiastic product/UX designer with front and back end programming skills and academic background who enjoys working in a challenging environment.
+I am a passionate, enthusiastic product/UX designer with programming skills and academic background who enjoys working in a challenging environment.
 
 I make sure to keep up to date with the latest technology and best practices to create the best possible experience for users. 
 

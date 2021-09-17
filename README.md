@@ -10,21 +10,21 @@ I am comfortable both leading and working in a multidisciplinary and internation
 # 🎨 Portfolio
 [View](/portfolio.md) full portfolio list.
 
-# Skills
+# 🏃 Skills
 
-## 💎 UI/UX
+### 💎 UI/UX
 * Design methods: conceptual and user-centered design, storyboarding, user flows and user journey; Visual interactions; lo-fi sketching and wireframes, and hi-fi prototyping.
 * Data gathering: user research, interviews, questionnaires, focus groups.
 * Prototyping tools: Sketch, Axure, Abstract, InVision, Zeplin, Gimp, Photoshop, Marvel, Balsamiq.
 * Evaluation & validation: field studies, usability testing, experimental design.
 * Product Ops: pendo, amplitude, enjoyhq, fullstory.
 
-## 🔧 Technical
+### 🔧 Technical
 * Familiarity with agile development processes and experience in software cycle from concept to production.
 * Expertise in designing responsive solutions available on all the different types of devices and different screen resolutions.
 * Knowledge of how design impacts engineering and vice versa, with the ability to construct dynamic interactive designs that are technically feasible.
 
-## 💻 Programming
+### 💻 Programming
 * Front/back (70/30) end developer.
 * AngularJS framework expertise and Angular, React and React Native fundamentals.
 * Experience with component-based front-end UI libraries (SASS, Flexbox, Bootstrap, Angular UI, Angular Material, React Material, React)
@@ -40,7 +40,7 @@ I am comfortable both leading and working in a multidisciplinary and internation
 # 💼 Working experience
 [View](/working_experience.md) full working experience list.
 
-# 🏃 OTHER
+# 📚 OTHER
 * Over 40+ [scientific articles](https://scholar.google.com/citations?user=pQxNXVsAAAAJ) published in journals, international conferences and workshops with 450+ citations.
 * Member of [Leaders of Awesomeness](/https://leaders.centercentre.com/) community by Jared Spool, completed intensive courses, i.e. Advanced Approaches to UX Research, Experience Vision
 * Clarivate First Mile - New Leader Program, Issued by [Harvard Business Publishing Corporate Learning](/https://www.harvardbusiness.org/)

@@ -8,7 +8,7 @@ I make sure to keep up to date with the latest technology and best practices to 
 I am comfortable both leading and working in a multidisciplinary and international team, listening and learning from my colleagues. I constantly strive to improve my skills and share what I have learned with others, and best of all have fun!
 
 # 🎨 Portfolio
-[View](/portfolio.md) full portfolio list.
+A [curated list](/portfolio.md) A UX/UI projects and coding resources.
 
 # 🏃 Skills
 

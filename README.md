@@ -45,7 +45,7 @@ I am comfortable both leading and working in a multidisciplinary and internation
 [View](/working_experience.md) full working experience list.
 
 ## OTHER
-* Over 40+ [scientific articles](https://scholar.google.com/citations?user=pQxNXVsAAAAJ) published in journals, international conferences and workshops with 350+ citations.
+* Over 40+ [scientific articles](https://scholar.google.com/citations?user=pQxNXVsAAAAJ) published in journals, international conferences and workshops with 450+ citations.
 * Fluent in English (ACE), Catalan and Spanish language. German. Level B, 1.1.
 
 ## SOFT SKILLS

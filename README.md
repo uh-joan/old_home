@@ -46,9 +46,6 @@ I am comfortable both leading and working in a multidisciplinary and internation
 # 💼 Working experience
 A full working experience [list](/working_experience.md).
 
-# 🎨 Resources
-A [curated list](/portfolio.md) of UX/UI mockups and coding resources.
-
 # 📚 OTHER
 * Over 40+ [scientific articles](https://scholar.google.com/citations?user=pQxNXVsAAAAJ) published in journals, international conferences and workshops with 450+ citations.
 * Member of [Leaders of Awesomeness](/https://leaders.centercentre.com/) community by Jared Spool, completed intensive courses, i.e. Advanced Approaches to UX Research, Experience Vision

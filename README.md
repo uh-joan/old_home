@@ -10,29 +10,33 @@ I am comfortable both leading and working in a multidisciplinary and internation
 # 🔧 General day to day
 * Provide direction, leadership, and guidance to members of the User Experience team and ensure the team has a high level of morale.
 * Helping the business grow by finding the best balance between the user experience strategy and business goals. 
+* Lead and participate on collaborative workshops (with internal stakeholders and with external customers) for a different research purposes, e.g. discovery planning, personas, prioritisation, assumption maps, journey maps, etc.
 * Knowledge of how design impacts engineering and business and vice versa, with the ability to construct interactive designs that are technically feasible.
 * Make informed design decisions by working with UX Researchers to incorporate research findings into iterative designs to develop testable prototypes/designs.
 * Collaborate with other team members such as Business Analysts, Software Developers, Product Managers, Customer Success, Training and stakeholders to arrive at the most appropriate solution.
 * Familiarity with agile development processes and experience in software cycle from concept to production.
+* Educate, coach and mentor the organization in design research and lean experimentation and apply cutting edge methods and principles across lean startup, design thinking, qualitative and quantitative research, lean and agile principles, exploratory and participatory research, contextual inquiry, heuristic assessment, survey instruments, usability testing, and related techniques.
 * Take an active role in shaping roadmaps, features, and designs by communicating user insights and design rationale to the wider team and stakeholders.
 * Regularly communicate and engage relevant team members to elicit feedback and build a shared understanding of user needs, business needs and design direction.
 * Maintain design consistency, champion and feedback on our Design System.
 
 # 🚀 Toolset
 ### 💎 UI/UX
-* Design methods: conceptual and user-centered design, storyboarding, user flows and user journey; Visual interactions; lo-fi sketching and wireframes, and hi-fi prototyping.
-* Data gathering: user research, interviews, questionnaires, focus groups.
-* Prototyping tools: Sketch, Axure, Abstract, InVision, Zeplin, Gimp, Photoshop, Marvel, Balsamiq.
-* Evaluation & validation: field studies, usability testing, experimental design.
-* Product Ops: pendo, amplitude, enjoyhq, fullstory.
+* Research: Mural, Freehand
+* Analytics: Pendo, GA, Tableau
+* Prototyping: Sketch, Axure, Marvel, Balsamiq
+* Hand-off systems: Invision, Zeplin, Abstract
+* Product Ops: Pendo, Amplitude, Enjoyhq
+* Testing: Maze
+* Other: Airtable, Notion, Abstract
 
-### 💻 Programming
-* Front/back (70/30) end developer.
-* AngularJS framework expertise and Angular, React and React Native fundamentals.
-* Experience with component-based front-end UI libraries (SASS, Flexbox, Bootstrap, Angular UI, Angular Material, React Material, React)
-* Back-end frameworks (Rails) and experience with Ruby and Python languages.
-* SQL (Postgresql) and noSQL (Redis, MongoDB) DB.
-* DevOps fundamentals (AWS, Heroku, DigitalOcean).
+### 💻 Programming: Front/back-end (70/30) developer.
+* Frameworks: AngularJS, Angular, React, React Native
+* Front-end UI libraries: SASS, Flexbox, Bootstrap, Angular UI, Angular Material, React Material, React
+* Back-end frameworks: Rails, Node.js 
+* Programming languages: Python, Ruby
+* DB: Postgresql, Redis, MongoDB
+* DevOps fundamentals: AWS, Heroku, DigitalOcean
 
 # 🎓 Education
 * **[PhD](https://www.dropbox.com/s/kgv7g5y0ni1wtnm/SaezThesisShort.pdf)** in Computer Science. Sheffield Hallam University, Sheffield, UK. Thesis entitled “Experiments in Human Multi-Robot Systems”.

@@ -1,15 +1,13 @@
-# Working experience
+# Principal UX/UI Designer at [Clarivate](https://clarivate.com/), London, UK.
+* Sep 2019 - Now
+* The [Cortellis](https://www.cortellis.com) family products: Cortellis [Drug Discovery Intelligence](https://www.cortellis.com/drugdiscovery), Cortellis Clinical Trials Intelligence, Cortellis Competitive Intelligence, Cortellis Deals Intelligence, Cortellis Regulatory Intelligence, Cortellis Digital Health Intelligence, Cortellis [Chemical Manufacturing and Control](https://www.cortellis.com/cmc/home), Cortellis [Generics Intelligence](https://www.cortellis.com/generics), Cortellis [Supply Chain Network](https://www.cortellis.com/supplychain/), Cortellis [Drug Research Analysis](https://www.cortellis.com/dra), [Key Path Analysis](https://apps.clarivate.com/kpa/login), [Metacore](https://portal.genego.com/)
+* Description of work:
+  - line 1
+  - line 2
 
-## Senior UX Designer at [PatSnap](https://www.patsnap.com/), London, UK.
-* Oct 2019 - Now
-* Products: [Discovery](https://discovery.patsnap.com/home), new Life Sciences (previous [Chem](http://chemical.patsnap.com/) & [Bio](https://bio.patsnap.com/))
-* Description of work: 
-  * Support the discovery team with product requirements documents, provide design solutions and hand them over to the engineering team. 
-  * Lead product designer for the new Life Science product by gathering user requirements and business goals, and transforming them into interactive mockups and POC.
-
-## Senior UX Designer at [Clarivate](https://clarivate.com/), London, UK.
-* Feb 2018 – Sept 2019
-* Products: [Cortellis](https://www.cortellis.com), Cortellis [Regulatory Intelligence](https://clarivate.com/cortellis/solutions/regulatory-intelligence-solutions/), [Newport](https://www.apicomesfirst.com), [CMC](https://apps.dev-snapshot.clarivate.com/cmc/home).
+# Senior UX Designer at [Clarivate](https://clarivate.com/), London, UK.
+* Feb 2018 – Sep 2019
+* Products: [Cortellis](https://www.cortellis.com), Cortellis [Regulatory Intelligence](https://clarivate.com/cortellis/solutions/regulatory-intelligence-solutions/), [Newport](https://www.apicomesfirst.com)
 * Description of work: 
   - Meeting design objectives of individual projects i.e. early user research, design and validation of user flows, understand stakeholder needs, interaction designs, delivering user interface prototypes to specification and validating usability with testing. 
   - Support the strategic goals to increase the awareness and impact of User Experience (UX) activities across the organisation’s stakeholders.

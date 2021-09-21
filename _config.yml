@@ -1,8 +1,6 @@
   title: Joan S Pons
   description: UX Designer
   theme: minima
-  minima:
-    skin: dark
   header_pages:
     - experience.md
     - education.md

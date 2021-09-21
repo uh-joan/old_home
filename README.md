@@ -44,7 +44,7 @@ I am comfortable both leading and working in a multidisciplinary and internation
 * **BEng** in Industrial Electronics Engineering. Rovira i Virgili University, Tarragona, Spain.
 
 # 💼 Working experience
-A full working experience [list](/working_experience.md).
+A full working experience [list](/experience.md).
 
 # 📚 OTHER
 * Over 40+ [scientific articles](https://scholar.google.com/citations?user=pQxNXVsAAAAJ) published in journals, international conferences and workshops with 450+ citations.
@@ -57,4 +57,4 @@ A full working experience [list](/working_experience.md).
 * Ability to reliably plan and estimate development time requirements.
 * Capacity of putting out fires in startups environments.
 * Continuously challenge and teach myself in personal projects.
-* Comfortable with abrupt change to project deadlines and the local gravity field :stuck_out_tongue_winking_eye:.
+* Comfortable with abrupt change to project deadlines and the local gravity field 😎.

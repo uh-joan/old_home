@@ -4,4 +4,4 @@
   minima:
     skin: dark
   header_pages:
-    - experience
+    - experience.md

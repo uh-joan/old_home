@@ -10,13 +10,13 @@ I am comfortable both leading and working in a multidisciplinary and internation
 # 🔧 General day to day
 * Provide direction, leadership, and guidance to members of the User Experience team and ensure the team has a high level of morale.
 * Helping the business grow by finding the best balance between the user experience strategy and business goals. 
-* Lead and participate on collaborative workshops (with internal stakeholders and with external customers) for a different research purposes, e.g. discovery planning, personas, prioritisation, assumption maps, journey maps, etc.
-* Knowledge of how design impacts engineering and business and vice versa, with the ability to construct interactive designs that are technically feasible.
-* Make informed design decisions by working with UX Researchers to incorporate research findings into iterative designs to develop testable prototypes/designs.
-* Collaborate with other team members such as Business Analysts, Software Developers, Product Managers, Customer Success, Training and stakeholders to arrive at the most appropriate solution.
-* Familiarity with agile development processes and experience in software cycle from concept to production.
 * Educate, coach and mentor the organization in design research and lean experimentation and apply cutting edge methods and principles across lean startup, design thinking, qualitative and quantitative research, lean and agile principles, exploratory and participatory research, contextual inquiry, heuristic assessment, survey instruments, usability testing, and related techniques.
+* Lead and participate on collaborative workshops (with internal stakeholders and with external customers) for a different research purposes, e.g. discovery planning, personas, prioritisation, assumption maps, journey maps, etc.
+* Make informed design decisions by working with UX Researchers to incorporate research findings into iterative designs to develop testable prototypes/designs.
+* Knowledge of how design impacts engineering and business and vice versa, with the ability to construct interactive designs that are technically feasible.
+* Familiarity with agile development processes and experience in software cycle from concept to production.
 * Take an active role in shaping roadmaps, features, and designs by communicating user insights and design rationale to the wider team and stakeholders.
+* Collaborate with other team members such as Business Analysts, Software Developers, Product Managers, Customer Success, Training and stakeholders to arrive at the most appropriate solution.
 * Regularly communicate and engage relevant team members to elicit feedback and build a shared understanding of user needs, business needs and design direction.
 * Maintain design consistency, champion and feedback on our Design System.
 
